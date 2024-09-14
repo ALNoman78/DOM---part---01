@@ -4,3 +4,13 @@ h1{
 ul{
     color: tomato;
 }
+.code-elements{
+    color: red;
+}
+.text-center {
+    text-align: center;
+}
+.color{
+    color: #fff;
+    padding: 4px;
+}
